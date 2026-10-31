@@ -1,12 +1,6 @@
 {
-<<<<<<< HEAD
   "version": "1.0.2",
   "url": "https://github.com/thecyberwar/tecksetu/releases/download/v1.0.1/tecksetu-v1.0.1.apk",
   "releaseNotes": "Auto-update system added + Performance improvements + New Home sections",
-=======
-  "version": "1.0.1",
-  "url": "https://github.com/thecyberwar/tecksetu/releases/download/v1.0.1/tecksetu-v1.0.1.apk",
-  "releaseNotes": "Initial release — TechSetu app v1.0.0",
->>>>>>> e5b1b2ddf25514dad6439d43b0ee5bc54993d500
   "mandatory": true
 }
